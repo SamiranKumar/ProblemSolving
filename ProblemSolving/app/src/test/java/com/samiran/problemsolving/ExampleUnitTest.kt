@@ -1,4 +1,4 @@
-package com.example.problemsolving
+package com.samiran.problemsolving
 
 import org.junit.Test
 
