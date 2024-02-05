@@ -42,6 +42,7 @@ dependencies {
     implementation("com.google.android.material:material:1.11.0")
     testImplementation("junit:junit:4.14-SNAPSHOT")
     testImplementation("junit:junit:4.12")
+    testImplementation("org.testng:testng:6.9.6")
     androidTestImplementation("androidx.test.ext:junit:1.1.5")
     androidTestImplementation("androidx.test.espresso:espresso-core:3.5.1")
 }
