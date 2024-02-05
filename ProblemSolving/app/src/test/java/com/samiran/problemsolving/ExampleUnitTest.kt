@@ -1,7 +1,7 @@
 package com.samiran.problemsolving
 
-import org.testng.Assert.assertEquals
-import org.testng.annotations.Test
+import org.junit.Assert.assertEquals
+import org.junit.Test
 
 
 /**
